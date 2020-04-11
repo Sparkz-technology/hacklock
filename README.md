@@ -66,4 +66,4 @@ __About__ :
 __Update__ :
 - From this option you update the script if there is new update available
 
-__sutharsan sparkz__ :
+#__sutharsan sparkz__ 
