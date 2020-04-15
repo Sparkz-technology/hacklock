@@ -10,7 +10,9 @@ hacklock is a bash based script which is officially termux from this tool in jus
 
 ### 📌 ***Hacklock is available for***:
 
-* Termux
+## Termux
+
+![hacklock](https://user-images.githubusercontent.com/62829664/79315770-0bfd0100-7f21-11ea-8281-8cdf1113916a.jpg)
 
 ### 📌 ***Installation and usage guide***:
 ```
