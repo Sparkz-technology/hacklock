@@ -46,6 +46,9 @@ $ cd hacklock
 $ ls
 ```
 ```
+$ chmod +x hacklock.sh
+```
+```
 $ bash hacklock.sh
 ```
 
